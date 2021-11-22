@@ -1,0 +1,146 @@
+
+elementpack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss_bullet
+  rotate: false
+  xy: 2, 69
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+enemy_bullet
+  rotate: false
+  xy: 70, 17
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+gate
+  rotate: false
+  xy: 516, 459
+  size: 250, 235
+  orig: 250, 235
+  offset: 0, 0
+  index: -1
+hp
+  rotate: false
+  xy: 516, 696
+  size: 328, 320
+  orig: 328, 320
+  offset: 0, 0
+  index: -1
+level1_obstacle
+  rotate: false
+  xy: 846, 887
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+level1_tile1
+  rotate: false
+  xy: 437, 470
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+level1_tile2
+  rotate: false
+  xy: 976, 984
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+level1_wall
+  rotate: false
+  xy: 437, 44
+  size: 191, 196
+  orig: 191, 196
+  offset: 0, 0
+  index: -1
+level2_obstacle
+  rotate: false
+  xy: 2, 2
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+level2_tile1
+  rotate: false
+  xy: 2, 504
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+level2_tile2
+  rotate: false
+  xy: 2, 504
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+level2_wall
+  rotate: false
+  xy: 768, 635
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+level3_obstacle
+  rotate: false
+  xy: 437, 242
+  size: 225, 215
+  orig: 225, 215
+  offset: 0, 0
+  index: -1
+level3_tile1
+  rotate: false
+  xy: 630, 112
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+level3_tile2
+  rotate: false
+  xy: 768, 601
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+level3_wall
+  rotate: false
+  xy: 630, 146
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+player_bullet_east
+  rotate: false
+  xy: 664, 357
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+player_bullet_north
+  rotate: false
+  xy: 846, 785
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+player_bullet_south
+  rotate: false
+  xy: 664, 255
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+player_bullet_west
+  rotate: false
+  xy: 846, 683
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

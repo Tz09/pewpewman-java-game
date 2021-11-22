@@ -1,0 +1,118 @@
+
+textures.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy_stand_east
+  rotate: false
+  xy: 2, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+enemy_walk_east
+  rotate: false
+  xy: 2, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: 0
+enemy_stand_north
+  rotate: false
+  xy: 108, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: -1
+enemy_walk_north
+  rotate: false
+  xy: 108, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: 0
+enemy_stand_south
+  rotate: false
+  xy: 426, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+enemy_walk_south
+  rotate: false
+  xy: 426, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 0
+enemy_stand_west
+  rotate: false
+  xy: 529, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+enemy_walk_west
+  rotate: false
+  xy: 529, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 0
+enemy_walk_east
+  rotate: false
+  xy: 632, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 1
+enemy_walk_east
+  rotate: false
+  xy: 735, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 2
+enemy_walk_north
+  rotate: false
+  xy: 214, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: 1
+enemy_walk_north
+  rotate: false
+  xy: 320, 127
+  size: 104, 127
+  orig: 104, 127
+  offset: 0, 0
+  index: 2
+enemy_walk_south
+  rotate: false
+  xy: 838, 129
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 1
+enemy_walk_south
+  rotate: false
+  xy: 426, 2
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 2
+enemy_walk_west
+  rotate: false
+  xy: 529, 2
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 1
+enemy_walk_west
+  rotate: false
+  xy: 632, 2
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: 2

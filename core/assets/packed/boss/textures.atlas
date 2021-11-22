@@ -1,0 +1,118 @@
+
+textures.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss_stand_east
+  rotate: false
+  xy: 40, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+boss_walk_east
+  rotate: false
+  xy: 40, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 1
+boss_stand_north
+  rotate: false
+  xy: 75, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+boss_walk_north
+  rotate: false
+  xy: 75, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 1
+boss_stand_south
+  rotate: false
+  xy: 110, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+boss_walk_south
+  rotate: false
+  xy: 110, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 1
+boss_stand_west
+  rotate: false
+  xy: 145, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+boss_walk_west
+  rotate: false
+  xy: 145, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 1
+boss_walk_east
+  rotate: false
+  xy: 180, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 0
+boss_walk_east
+  rotate: false
+  xy: 215, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 2
+boss_walk_north
+  rotate: false
+  xy: 250, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 0
+boss_walk_north
+  rotate: false
+  xy: 285, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 2
+boss_walk_south
+  rotate: false
+  xy: 2, 2
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: 0
+boss_walk_south
+  rotate: false
+  xy: 320, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 2
+boss_walk_west
+  rotate: false
+  xy: 355, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 0
+boss_walk_west
+  rotate: false
+  xy: 390, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: 2
